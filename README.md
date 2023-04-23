@@ -1,10 +1,9 @@
-<h1 align="center">
-<a><img align="center" height="100em" src="img/logo_bootcamp.webp"></a>  Infinity Cosméticos
-</h1>
 
-<h2 align="center">
-# Bootcamp Potência Tech Angular Developer - Powered by iFood
-</h2> 
+<a><img align="center" height="100em" src="img/logo_bootcamp.webp"></a>
+
+<h1 align="center">
+Bootcamp Potência Tech Angular Developer - Powered by iFood
+</h1> 
 
 <h4 align="center"> 
 	🚩 Em construção... 🚧 
